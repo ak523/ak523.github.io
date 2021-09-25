@@ -1,9 +1,12 @@
 ### Site Settings ###
-title: Nilavan Akilan
+title: Aryan Kadiya
 description: >-
-  Data Scientist | Machine Learning Engineer
+            Understanding technology and people are the
+            most important skills, so investing time in 
+            expading my technical knowledge and human 
+            psychology and philosophy.
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository: Nilavan/Nilavan.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository: ak523/ak523.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
 ### Plugins ###
 #plugins:
@@ -19,12 +22,12 @@ nav_exclude: # The following paths are excluded from navbar
 
 ### Author Info ###
 author:
-  name: Nilavan Akilan
-  image: assets/img/profile.jpg
-  email: nilavanakilan2001@gmail.com
-  linkedin: nilavan-akilan
-  github: Nilavan
-  kaggle: nilavanakilan
+  name: Aryan Kadiya
+  image: https://media-exp1.licdn.com/dms/image/C5103AQGfTvh6lZXfqw/profile-displayphoto-shrink_800_800/0/1585042399319?e=1637798400&v=beta&t=PJ9CU-q1tpWMCkO4ycpLuSSXG3A6WNNe3EDlBRd_Hqk
+  email: aryankadiya@gmail.com
+  linkedin: aryan-kadiya
+  github: ak523
+  # kaggle: nilavanakilan
 
 ### Posts ###
 permalink: /blog/:title

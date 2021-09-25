@@ -1,18 +1,23 @@
-- name: Python
+- name: C++
   percentage: 90
   color: danger
 
 - name: C
   percentage: 90
-  color:
+  color: warning
 
-- name: C++
+- name: Kotlin
   percentage: 90
   color: success
 
 - name: Java
   percentage: 70
   color: info
+
+- name: JavaScript
+  percentage: 80
+  color: primary
+
 
 - name: HTML5/CSS3
   percentage: 80
