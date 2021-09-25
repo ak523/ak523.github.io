@@ -9,20 +9,17 @@ weight: 3
 
 ---
 
-Hi, I'm **Nila ☾**.
+Hi, I'm **Aryan**.
 
-I'm a third year CSE-Data Science student at VIT Vellore.<br>
+I'm a third year Computer Engineering student at CHARUSAT.<br>
 As a result of my perpetual curiosity, I have practical experience with a wide range of technologies including:
 
-Python • C/C++ • Java • HTML • CSS • MySQL • MongoDB • Scikit-Learn • NLTK • Pandas • Numpy • TensorFlow • Keras • Matlab • R
+C/C++ • Java • Kotlin • JavaScript • MySQL • SQLite • Python • HTML/CSS •  
 
 Which I use for:
 
-Machine learning • Data Science • Data Vizualization • NLP • Computer Vision • Web Development **_and more!_**
+Android Development • Competitive programming • Web Development • **_and more!_**
 
-Thankfully, I'm not a cat!
-
-When I'm not working on something ML or data science, you can find me petting doggos! I also love **playing** football, _watching_ Formula 1 and singing and I'm always up for a game of Mario Kart :)
 
 <!--
 {% capture carousel_images %}
