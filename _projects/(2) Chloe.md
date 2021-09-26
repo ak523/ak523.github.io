@@ -10,8 +10,8 @@ description: A personal finance management app with an AI powered assistant desi
 </h1><br>
 
 <h2 align="center">
-{% include elements/button.html link="https://drive.google.com/file/d/10kCtgSKkYPyO3zmtDGCsD6WpJqgjnBSS/view?usp=sharing" text="Download" style="success" size="lg" %}
-{% include elements/button.html link="https://github.com/ajith-m-doodlebug/Chloe" text="GitHub" size="lg"%}
+{% include elements/button.html link="https://google.com" text="Download" style="success" size="lg" %}
+{% include elements/button.html link="https://google.com" text="GitHub" size="lg"%}
 </h2>
 <br>
 <h5>

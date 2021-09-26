@@ -8,5 +8,5 @@ description:
   - Browsing behavior<br>
   - Historical purchase data<br>
   among other information.
-external_url: https://github.com/Nilavan/churn-risk-score-prediction
+external_url: https://google.com
 ---
